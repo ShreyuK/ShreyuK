@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center"><img width="80%" alt="Hello, I'm Shreyas. I make hardware smart!" src="./assets/header.png" /></p>
+
+<br />
 
 <!--
 **ShreyuK/ShreyuK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
