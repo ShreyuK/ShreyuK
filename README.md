@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Shreyas. I make hardware smart!" src="./assets/header.png" /></p>
+<p align="center"><img width="40%" alt="Hello, I'm Shreyas. I make hardware smart!" src="./assets/header.png" /></p>
 
 <br />
 
